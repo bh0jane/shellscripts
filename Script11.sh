@@ -6,4 +6,4 @@ echo "Please enter vaule of b"
 read b
 if [ $a == $b ]
 then
- echo "a is eq
+ echo "a is e
