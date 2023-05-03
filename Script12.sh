@@ -15,7 +15,7 @@ then
  echo "$a != $b : a is not equal to b"
 else
  echo "$a = $b: a is equal to b"
-fi
+fi hi how are you
 
 
 if [ -z $a ]
